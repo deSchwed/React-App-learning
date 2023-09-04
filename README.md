@@ -1,8 +1,14 @@
 # Time Stamp
 
-## Link
+1:33:53
+
+## Video Link
 
 [Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer](https://www.youtube.com/watch?v=F627pKNUCVQ)
+
+## Figma Link
+
+Figma link here: [GPT3 Website Design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A184&mode=dev)
 
 # Getting Started with Create React App
 
